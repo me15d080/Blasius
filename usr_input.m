@@ -1,11 +1,9 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% file name : usr_input.m                                                       %
-% Description of code:                                                          %
-% This file is meant to specify/ change the inputs to be provided               %
-% by the user. All changes are to be made here only and no where else           %
-% in the rest of code. Once user is satisfied with the changes,he should        %
-% run the driver_code.m for the numerical solution of boundary layer equations. %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  
+% file name : usr_input.m                                                       
+% Description of code:                                                          
+% This file is meant to specify/ change the inputs to be provided               
+% by the user. All changes are to be made here only and no where else           
+% in the rest of code. Once user is satisfied with the changes,he should        
+% run the driver_code.m for the numerical solution of boundary layer equations.   
 
 % Geometry
 Lx=10;              %length of computational domain
